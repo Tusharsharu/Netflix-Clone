@@ -225,6 +225,15 @@ footer .india {
 
 @media screen and (max-width: 1300px) {
 
+
+    .main {
+        height: 60vh;
+    }
+
+    .main .box {
+        height: 60vh;
+    }
+
     nav {
         max-width: 90vw;
     }
